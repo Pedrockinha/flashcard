@@ -56,7 +56,7 @@ color: var(--card-back-color);
 font-weight: 700;
 }
 
-.carta0:hover {
+.cartao:hover {
     transform: rotateY(180deg);
 }
 
